@@ -1,0 +1,83 @@
+{
+  "sales_channels": [
+    {
+      "name": "Village",
+      "consider": [
+        "Local demand",
+        "Customer reach",
+        "Transport cost",
+        "Margin",
+        "Payment speed"
+      ]
+    },
+    {
+      "name": "Nearby towns or markets",
+      "consider": [
+        "Customer volume",
+        "Competition",
+        "Transport cost",
+        "Margin",
+        "Payment speed"
+      ]
+    },
+    {
+      "name": "Retailers",
+      "consider": [
+        "Order volume",
+        "Retailer margin",
+        "Payment delays",
+        "Supply requirements"
+      ]
+    },
+    {
+      "name": "Institutions",
+      "consider": [
+        "Order size",
+        "Procurement requirements",
+        "Quality consistency",
+        "Payment delays"
+      ]
+    },
+    {
+      "name": "SHG or Cooperative",
+      "consider": [
+        "Collective procurement",
+        "Shared resources",
+        "Market access",
+        "Shared logistics"
+      ]
+    },
+    {
+      "name": "Aggregator",
+      "consider": [
+        "Market access",
+        "Volume",
+        "Commission",
+        "Intermediary dependence"
+      ]
+    },
+    {
+      "name": "WhatsApp or Social Commerce",
+      "consider": [
+        "Digital capability",
+        "Direct customer relationship",
+        "Delivery",
+        "Marketing"
+      ]
+    },
+    {
+      "name": "Online Marketplace",
+      "consider": [
+        "Market reach",
+        "Platform commission",
+        "Shipping",
+        "Packaging",
+        "Digital capability"
+      ]
+    }
+  ],
+  "recommended_channel": "AI selected based on evidence",
+  "reason": "AI generated",
+  "limitations": [],
+  "risks": []
+}
