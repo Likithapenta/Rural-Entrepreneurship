@@ -1,0 +1,38 @@
+{
+  "unit_economics": {
+    "currency": "INR",
+    "raw_material_cost": "User provided",
+    "entrepreneur_labour_cost": "User provided",
+    "hired_labour_cost": "User provided",
+    "packaging_cost": "User provided",
+    "transport_cost": "User provided",
+    "storage_cost": "User provided",
+    "spoilage_cost": "User provided",
+    "electricity_or_fuel_cost": "User provided",
+    "equipment_cost": "User provided",
+    "platform_commission": "User provided",
+    "intermediary_commission": "User provided",
+    "other_costs": "User provided",
+    "total_cost": "Calculated",
+    "quantity_produced": "User provided",
+    "cost_per_unit": "Calculated",
+    "selling_price": "User provided",
+    "profit_per_unit": "Calculated",
+    "profit_margin_percentage": "Calculated"
+  },
+  "break_even": {
+    "fixed_cost": "User provided",
+    "variable_cost_per_unit": "Calculated",
+    "contribution_per_unit": "Calculated",
+    "break_even_quantity": "Calculated",
+    "expected_sales": "User provided",
+    "break_even_status": "AI evaluated"
+  },
+  "pricing": {
+    "current_price": "User provided",
+    "minimum_viable_price": "Calculated when sufficient data exists",
+    "test_price": "AI recommended",
+    "competitor_price": "Verified external information only",
+    "pricing_recommendation": "AI generated"
+  }
+}
