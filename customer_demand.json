@@ -1,0 +1,34 @@
+{
+  "customer_demand": {
+    "target_customer": "AI identified from available evidence",
+    "customer_problem": "AI identified",
+    "customer_need": "AI identified",
+    "customer_location": "User provided or evidence based",
+    "buying_frequency": "User provided or evidence required",
+    "affordability": "User provided or evidence required",
+    "demand_validation_method": "Small controlled market test",
+    "test_duration_days": "AI recommended",
+    "target_customers": "AI recommended",
+    "test_quantity": "AI recommended",
+    "test_price": "User provided or evidence based",
+    "evidence_to_collect": [
+      "Paid orders",
+      "Repeat purchases",
+      "Pre-orders",
+      "Customer feedback",
+      "Retailer enquiries",
+      "Institutional enquiries"
+    ],
+    "demand_evidence": {
+      "customers_contacted": "User provided",
+      "customers_interested": "User provided",
+      "paid_orders": "User provided",
+      "repeat_orders": "User provided",
+      "pre_orders": "User provided",
+      "retailer_interest": "User provided",
+      "institutional_interest": "User provided"
+    },
+    "demand_status": "AI evaluated",
+    "missing_demand_evidence": []
+  }
+}
