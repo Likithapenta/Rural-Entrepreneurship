@@ -1,0 +1,18 @@
+{
+  "evidence_ledger": {
+    "facts_supplied_by_entrepreneur": [],
+    "verified_external_information": [],
+    "system_assumptions": [],
+    "calculations": [],
+    "missing_evidence": [],
+    "rules": [
+      "Do not present assumptions as facts.",
+      "Do not present calculations as external information.",
+      "Do not fabricate market data.",
+      "Do not fabricate customer demand.",
+      "Clearly identify missing evidence.",
+      "External information must have a reliable source.",
+      "If current information cannot be verified, state that it could not be verified."
+    ]
+  }
+}
