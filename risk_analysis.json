@@ -1,0 +1,33 @@
+{
+  "risk_analysis": {
+    "possible_risks": [
+      "Seasonal demand",
+      "Seasonal income",
+      "Raw material price changes",
+      "Supply shortages",
+      "Spoilage",
+      "Quality inconsistency",
+      "Equipment failure",
+      "Production limitations",
+      "Transport disruption",
+      "Low customer demand",
+      "Competition",
+      "Credit sales",
+      "Payment delays",
+      "Working capital shortage",
+      "Digital limitations",
+      "Platform dependence",
+      "Customer concentration"
+    ],
+    "identified_risks": [],
+    "risk_assessment": [
+      {
+        "risk": "AI identified",
+        "impact": "AI evaluated",
+        "early_warning_sign": "AI generated",
+        "mitigation": "AI generated"
+      }
+    ],
+    "principal_risks": []
+  }
+}
