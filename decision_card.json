@@ -1,0 +1,59 @@
+{
+  "rural_venture_decision_card": {
+    "title": "Rural Venture Decision Card",
+
+    "entrepreneur_and_business_context": {
+      "entrepreneur": "User provided",
+      "location": "User provided",
+      "business_type": "User provided",
+      "product_or_service": "User provided",
+      "language": "User provided",
+      "resources": "User provided",
+      "digital_access": "User provided",
+      "principal_constraint": "User provided"
+    },
+
+    "customer_and_problem": {
+      "target_customer": "AI generated",
+      "customer_problem": "AI generated",
+      "proposed_solution": "AI generated"
+    },
+
+    "evidence_collected": {
+      "facts_supplied_by_entrepreneur": [],
+      "verified_external_information": [],
+      "demand_evidence": []
+    },
+
+    "key_assumptions_still_untested": [],
+
+    "financial_snapshot": {
+      "cost_per_unit": "Calculated",
+      "selling_price": "User provided",
+      "profit_per_unit": "Calculated",
+      "expected_margin": "Calculated",
+      "break_even_estimate": "Calculated"
+    },
+
+    "recommended_sales_channel": {
+      "channel": "AI selected",
+      "reason": "AI generated"
+    },
+
+    "principal_risks": [],
+
+    "missing_evidence": [],
+
+    "final_decision": {
+      "decision": "Proceed / Pilot / Modify / Collaborate / Test Further / Pause",
+      "reason": "AI generated from evidence"
+    },
+
+    "thirty_day_action_plan": {
+      "week_1": [],
+      "week_2": [],
+      "week_3": [],
+      "week_4": []
+    }
+  }
+}
