@@ -1,0 +1,48 @@
+{
+  "decision_engine": {
+    "possible_decisions": [
+      {
+        "decision": "Proceed",
+        "meaning": "Sufficient evidence supports a limited launch."
+      },
+      {
+        "decision": "Pilot",
+        "meaning": "Conduct a small controlled market test."
+      },
+      {
+        "decision": "Modify",
+        "meaning": "Change the product, customer, price or sales channel."
+      },
+      {
+        "decision": "Collaborate",
+        "meaning": "Pursue the opportunity through a group or partner."
+      },
+      {
+        "decision": "Test Further",
+        "meaning": "Critical evidence is still missing."
+      },
+      {
+        "decision": "Pause",
+        "meaning": "The current model is unlikely to be viable."
+      }
+    ],
+    "decision_factors": [
+      "Customer demand",
+      "Willingness to pay",
+      "Real cost",
+      "Selling price",
+      "Profit margin",
+      "Break-even",
+      "Sales channel",
+      "Logistics",
+      "Payment delays",
+      "Digital capability",
+      "Production capacity",
+      "Business risks",
+      "Available resources",
+      "Missing evidence"
+    ],
+    "final_decision": "AI selected",
+    "reason": "AI generated from evidence, calculations and missing information"
+  }
+}
