@@ -1,0 +1,28 @@
+{
+  "support_pathway": {
+    "possible_support": [
+      "Business training",
+      "Market linkage",
+      "Equipment",
+      "Working capital",
+      "Collective procurement",
+      "SHG or cooperative support",
+      "Packaging support",
+      "Logistics support",
+      "Digital training",
+      "Mentorship",
+      "Formal credit"
+    ],
+    "identified_needs": [],
+    "recommended_support": [],
+    "external_programmes": {
+      "programme_name": "Only verified programmes",
+      "official_source": "Required",
+      "geographic_applicability": "Required",
+      "eligibility": "Required",
+      "conditions": "Required",
+      "verification_status": "Verified or Not Verified"
+    },
+    "verification_rule": "Never present an unverified scheme, grant, lender or programme as confirmed information."
+  }
+}
