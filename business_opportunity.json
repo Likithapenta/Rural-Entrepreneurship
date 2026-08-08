@@ -1,0 +1,32 @@
+{
+  "business_opportunity": {
+    "skill": "User provided",
+    "local_resource": "User provided",
+    "product_or_service": "User provided",
+    "business_idea": "User provided",
+    "problem_solved": "AI generated from user information",
+    "value_proposition": "AI generated",
+    "production_capacity": "User provided",
+    "current_sales": "User provided",
+    "existing_customers": "User provided",
+    "possible_customer_segments": [
+      "Village community",
+      "Nearby towns",
+      "Retailers",
+      "Institutions",
+      "Self-help groups",
+      "Cooperatives",
+      "Aggregators",
+      "WhatsApp or social-commerce customers",
+      "Online marketplace customers"
+    ],
+    "opportunity_analysis": {
+      "strengths": [],
+      "available_resources": [],
+      "potential_opportunities": [],
+      "limitations": [],
+      "assumptions": [],
+      "missing_information": []
+    }
+  }
+}
